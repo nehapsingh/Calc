@@ -1,0 +1,34 @@
+
+.heading1{
+    background-color: aqua;
+    color: blue;
+}
+
+.heading2{
+    color: rgb(255, 0, 85);
+}
+
+.p1{
+    color: rgb(42, 165, 93);
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.p2{
+    color: rgb(165, 42, 42);
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.p3{
+        color: rgb(42, 110, 165);
+        font-size: large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol{
+    color: blueviolet;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
